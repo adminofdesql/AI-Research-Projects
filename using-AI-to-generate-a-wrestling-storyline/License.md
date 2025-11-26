@@ -1,0 +1,23 @@
+=======================================================================
+Standard Commercial License Agreement (EULA)
+=======================================================================
+
+This is a legal agreement between you (the "Licensee") and Fuad Hasan Noyon (the "Licensor") for the digital product "AI Wrestling Saga Case Study" (the "Product"). By downloading, installing, or using the Product, you agree to be bound by the terms of this license.
+
+1.  **Grant of License:**
+    The Licensor grants you a non-exclusive, non-transferable, worldwide license to use the Product for personal or educational purposes. This license is for a single user only.
+
+2.  **Restrictions - You are EXPRESSLY PROHIBITED from:**
+    * Reselling, redistributing, or sub-licensing the Product or any of its files, in whole or in part.
+    * Sharing the Product or its files with any other person or entity.
+    * Making the Product publicly available for download or access (e.g., on a website, torrent, or peer-to-peer network).
+    * Using the creative works (storylines, characters) within the Product as a basis for a new commercial project without express written permission from the Licensor.
+    * Claiming authorship or ownership of the Product.
+
+3.  **Intellectual Property:**
+    All copyrights, trademarks, and other intellectual property rights in and to the Product are and shall remain the exclusive property of the Licensor.
+
+4.  **Termination:**
+    This license is effective until terminated. It will terminate automatically without notice from the Licensor if you fail to comply with any provision of this license. Upon termination, you must destroy all copies of the Product.
+
+Copyright © 2025, Fuad Hasan Noyon. All Rights Reserved.
